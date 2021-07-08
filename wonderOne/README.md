@@ -20,3 +20,9 @@ e compreensão do oferecimento de serviços prestados por uma determinada organi
 
 ## Layout Mobile
 ![ Mobile1](https://github.com/FelipeGB-pgr/Assets/blob/master/wonderOne-layMobile-web1.png)   ![ Mobile1](https://github.com/FelipeGB-pgr/Assets/blob/master/wonderOne-layMobile-web2.png)
+
+## Tecnologias utilizadas 
+- HTML
+- CSS
+- Javascript
+- Bootstrap4
