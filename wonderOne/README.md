@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/FelipeGB-pgr/ThemesWithBoot4/blob/master/LICENSE)
 
 # Sobre o projeto
-WonderOne é um tema readptado de maneira mais funcional e contribuinte. Suas funcionalidades assim como o seu layout buscam promover uma fácil acessibildade 
+WonderOne é um tema readaptado de maneira mais funcional e contribuinte. Suas funcionalidades assim como o seu layout buscam promover uma fácil acessibildade 
 e compreensão do oferecimento de serviços prestados por uma determinada organização.
 
 ## Layout Web 
